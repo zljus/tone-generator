@@ -1,5 +1,4 @@
 # Zack James
-# CS21
 # This program generates random notes from certain musical modes
 
 # Import libraries
